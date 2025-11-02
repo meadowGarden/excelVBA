@@ -1,0 +1,4 @@
+# Ignore Excel temporary and backup files
+~$*
+*.tmp
+*.bak
